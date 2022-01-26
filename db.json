@@ -1,0 +1,19 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Fatura atrasada",
+      "description": "Sua fatura está atrasada!"
+    },
+    {
+      "id": 2,
+      "title": "Fatura em dia",
+      "description": "Sua fatura está em dia!"
+    },
+    {
+      "id": 3,
+      "title": "Fatura futura",
+      "description": "Sua fatura ainda vai chegar!"
+    }
+  ]
+}
